@@ -8,8 +8,12 @@
 -->
 
 # Communicate using Markdown
+# This is also a h1
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+
+## h2 header
+content
 
 </header>
 
